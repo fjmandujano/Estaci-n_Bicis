@@ -1,0 +1,7 @@
+_delay: CODE, 14712 0 34
+_main: CODE, 14698 0 14
+__initialization: CODE, 14908 0 104
+_config: CODE, 14782 0 46
+_LCD_init: CODE, 15018 0 114
+_write_LCD: CODE, 15286 0 330
+Total: 642
